@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi! I'm Kevin Miranda  
 
-<!--
-**KevinMiranda26/KevinMiranda26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Engineering** student, 20 years old, and passionate about **web development**. I love learning new technologies, solving problems, and building applications that can positively impact people's lives.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 📚 Currently studying Systems Engineering.  
+- 💻 Interested in **web development** and designing intuitive user interfaces.  
+- 🌱 Learning new technologies like JavaScript, React, and Node.js.  
+- 🎯 My goals include becoming a Full-Stack Developer and contributing to open-source projects.  
+
+---
+
+## 💼 Skills  
+- **Languages:**  
+  - HTML5, CSS3, Javascript, PHP
+- **Frameworks and Libraries:**  
+  - Laravel, Bootstrap, Tailwind CSS
+- **Other Tools:**  
+  - Git, GitHub  
+
+---
